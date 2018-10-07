@@ -1,2 +1,3 @@
 # Programowanie-obiektowe-podstawy
-zadanie na laboratorium z projektowania obiektowego
+zadania na laboratorium z projektowania obiektowego
+
