@@ -1,0 +1,6 @@
+#ifndef WYNIKI_H_INCLUDED
+#define WYNIKI_H_INCLUDED
+
+
+
+#endif // WYNIKI_H_INCLUDED

@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1498082761 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\main.cpp
+	<iostream>
+	"runda.h"
+	"statek.h"
+	"przeciwnik.h"
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<cstdlib>
+
+1496787553 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\przeciwnik.cpp
+	"przeciwnik.h"
+
+1498082964 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\przeciwnik1.cpp
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+	<string.h>
+
+1498082964 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\przeciwnik2.cpp
+	"przeciwnik2.h"
+	"przeciwnik1.h"
+
+1498066143 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\runda.cpp
+	"runda.h"
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+	"statek.h"
+
+1496763444 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\statek.cpp
+	"statek.h"
+
+1496607842 source:c:\users\karol\desktop\studia\pp\code1\spaceinvaders\wyniki.cpp
+
+1498070581 c:\users\karol\desktop\studia\pp\code1\spaceinvaders\runda.h
+	"statek.h"
+	"przeciwnik.h"
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+
+1498070568 c:\users\karol\desktop\studia\pp\code1\spaceinvaders\statek.h
+	<string.h>
+	"runda.h"
+
+1498081109 c:\users\karol\desktop\studia\pp\code1\spaceinvaders\przeciwnik.h
+
+1498082732 c:\users\karol\desktop\studia\pp\code1\spaceinvaders\przeciwnik1.h
+	"przeciwnik.h"
+
+1498082929 c:\users\karol\desktop\studia\pp\code1\spaceinvaders\przeciwnik2.h
+	"przeciwnik.h"
+
+1498127604 source:c:\users\crump\downloads\spaceinvaders\spaceinvaders\main.cpp
+	<iostream>
+	"runda.h"
+	"statek.h"
+	"przeciwnik.h"
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<cstdlib>
+
+1498074181 c:\users\crump\downloads\spaceinvaders\spaceinvaders\runda.h
+	"statek.h"
+	"przeciwnik.h"
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+
+1498074168 c:\users\crump\downloads\spaceinvaders\spaceinvaders\statek.h
+	<string.h>
+	"runda.h"
+
+1498084709 c:\users\crump\downloads\spaceinvaders\spaceinvaders\przeciwnik.h
+
+1498086332 c:\users\crump\downloads\spaceinvaders\spaceinvaders\przeciwnik1.h
+	"przeciwnik.h"
+
+1498086529 c:\users\crump\downloads\spaceinvaders\spaceinvaders\przeciwnik2.h
+	"przeciwnik.h"
+
+1496791153 source:c:\users\crump\downloads\spaceinvaders\spaceinvaders\przeciwnik.cpp
+	"przeciwnik.h"
+
+1498086564 source:c:\users\crump\downloads\spaceinvaders\spaceinvaders\przeciwnik1.cpp
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+	<string.h>
+
+1498086564 source:c:\users\crump\downloads\spaceinvaders\spaceinvaders\przeciwnik2.cpp
+	"przeciwnik2.h"
+	"przeciwnik1.h"
+
+1498069743 source:c:\users\crump\downloads\spaceinvaders\spaceinvaders\runda.cpp
+	"runda.h"
+	"przeciwnik1.h"
+	"przeciwnik2.h"
+	"statek.h"
+
+1496767044 source:c:\users\crump\downloads\spaceinvaders\spaceinvaders\statek.cpp
+	"statek.h"
+
